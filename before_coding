@@ -1,0 +1,6 @@
+Abstract:
+All business logic should be abstract enough.  Don’t use too specific variable name and function name and class name.
+
+Debuggability: log, trace. log, trace should not influence business logic, should have blank line between log, trace and business logic
+
+Testability: error handling, test coverage(if... else… cover 80%), test case(good or bad)
