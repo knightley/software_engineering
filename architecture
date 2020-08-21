@@ -1,0 +1,8 @@
+sun:
+An architecture that follow these principles:
+  The right tool and language for the right work
+  Separation of concerns
+  Unidirectional data flow
+  Make it simple
+  Can be incrementally fit in with existing product (staged phase in) 
+  Cloud solution worthy
